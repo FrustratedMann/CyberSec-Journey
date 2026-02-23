@@ -4,11 +4,11 @@ structured cybersecurity learning roadmap and labs...
 👤 About Me
 | Field | Details |
 |-------|---------|
-| Name | [ADARSH BHARTI] |
+| Name | ADARSH BHARTI |
 | University | KIIT University |
-| Year | [1st year] |
-| Branch | [CSE(AI&ML)] |
+| Year | 1st year |
+| Branch | CSE(AI&ML) |
 | Society | Cyber Peace Corps |
-| Domain | [Will be assigned after rotations] |
-| TryHackMe | [(https://tryhackme.com/p/adarsh47576ss)] |
-| LinkedIn | [www.linkedin.com/in/adarsh-bharti-26980236a] |
+| Domain | Will be assigned after rotations |
+| TryHackMe | https://tryhackme.com/p/adarsh47576ss |
+| LinkedIn | www.linkedin.com/in/adarsh-bharti-26980236a |
